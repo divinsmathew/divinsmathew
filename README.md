@@ -32,6 +32,7 @@ I'm <b>[Divins Mathew](http://divins-mathew.netlify.com/)</b>. I'm a software en
   <a title="LinkedIn" href="https://www.linkedin.com/in/divinsmathew"><img src="https://user-images.githubusercontent.com/13608193/152429138-1e479d90-ccf3-403d-aa64-eab40c49bfbc.svg" alt="LinkedIn"></a>
   <a title="Stackoverflow" href="http://stackoverflow.com/u/3201403"><img src="https://user-images.githubusercontent.com/13608193/152432038-7639d678-7690-453c-8e92-20986f1802af.svg" alt="Stackoverflow"></a>
   <a title="CodePen" href="https://codepen.io/divinsmathew"><img src="https://user-images.githubusercontent.com/13608193/152428721-5d8a92fa-8e5f-4aad-bd5a-8c9ac180fd4f.svg" alt="CodePen"></a>
+  <a title="Twitter" href="https://twitter.com/divinsmathew"><img src="https://user-images.githubusercontent.com/13608193/152432626-338d2e08-ae84-4afc-800a-4932f74114e7.svg" alt="Twitter"></a>
 </p>
 
 <br>
