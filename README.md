@@ -12,10 +12,10 @@ I'm <b>[Divins Mathew](http://divins-mathew.netlify.com/)</b>. I'm a software en
 <br>
 
 <p align="center">
-  <a href="https://github.com/MartinHeinz/MartinHeinz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divinsmathew&hide=java,html,tex&title_color=ffffff&text_color=05fff7&icon_color=05fff7&bg_color=051629&langs_count=3" />
+  <a href="https://github.com/divinsmathew">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divinsmathew&hide=html,tex&title_color=ffffff&text_color=05fff7&icon_color=05fff7&bg_color=051629&langs_count=3" />
   </a>
-  <a href="https://github.com/MartinHeinz/MartinHeinz">
+  <a href="https://github.com/divinsmathew">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=divinsmathew&show_icons=true&line_height=27&count_private=true&title_color=05fff7&text_color=abb5d3&icon_color=d1e9ff&bg_color=051629" alt="Martin's GitHub Stats" />
   </a>
 </p>
