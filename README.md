@@ -2,7 +2,7 @@
 
 <h1 align='center'>Hi folks! :wave:</h1>
 
-I'm <b>[Divins Mathew](http://divins-mathew.netlify.com/)</b>. I'm a software engineer based out of India. I build delightful user experiences and bring elegant designs to life. Currently working as a Software Engineer at [impress.ai](https://www.impress.ai/).
+I'm <b>[Divins Mathew](http://divins-mathew.netlify.com/)</b>, a software engineer based in India, specializing in front-end web development. I build delightful user experiences and bring elegant designs to life. Currently working as a Software Engineer at [impress.ai](https://www.impress.ai/).
 
 -   ❤️ Loves building for Android and the Web.
 -   📱 Author of [CubeX](https://play.google.com/store/apps/details?id=diozz.cubex), with 9M+ downloads in the Play Store.
