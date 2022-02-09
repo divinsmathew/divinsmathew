@@ -27,7 +27,7 @@ I'm <b>[Divins Mathew](http://divins-mathew.netlify.com/)</b>, a software engine
 </p>
 
 <p align="center">
-  <a title="Email" href="mailto:divinsmathew@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/13608193/152429704-1538097c-67d0-4e2c-a6e0-09f820361a70.svg" alt="Email"></a>
+  <a title="Email" href="mailto:divinsmathew@gmail.com"><img src="https://user-images.githubusercontent.com/13608193/152429704-1538097c-67d0-4e2c-a6e0-09f820361a70.svg" alt="Email"></a>
   <a title="Portfolio" href="http://divins-mathew.netlify.com/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/13608193/152426278-0aa6c9ff-de37-4ff1-9808-8a8375a2e959.svg" alt="Portfolio"></a>
   <a title="LinkedIn" href="https://www.linkedin.com/in/divinsmathew" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/13608193/152429138-1e479d90-ccf3-403d-aa64-eab40c49bfbc.svg" alt="LinkedIn"></a>
   <a title="Stackoverflow" href="http://stackoverflow.com/u/3201403" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/13608193/152432038-7639d678-7690-453c-8e92-20986f1802af.svg" alt="Stackoverflow"></a>
