@@ -5,7 +5,7 @@
 I'm <b>[Divins Mathew](http://divins-mathew.netlify.com/)</b>, a software engineer based in India, specializing in front-end web development. I build delightful user experiences and bring elegant designs to life. Currently working as a Software Engineer at [impress.ai](https://www.impress.ai/).
 
 -   ❤️ Loves building for Android and the Web.
--   📱 Author of [CubeX](https://play.google.com/store/apps/details?id=diozz.cubex), with 9M+ downloads in the Play Store.
+-   📱 Author of [CubeX](https://play.google.com/store/apps/details?id=diozz.cubex), with 10M+ downloads in the Play Store.
 -   ⏺ Advocate of [minimalism](https://en.wikipedia.org/wiki/Minimalism#Software_and_UI_design).
 -   💬 [Ask me](https://github.com/divinsmathew/divinsmathew/issues) anything!
 
